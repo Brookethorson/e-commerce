@@ -1,0 +1,18 @@
+{
+    "npm.enableRunFromFolder": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3301,
+            "driver": "MySQL",
+            "name": "ecommerce",
+            "database": "ecommerce_db",
+            "username": "root",
+            "password": "root"
+        }
+    ]
+}
