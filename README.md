@@ -25,7 +25,9 @@ The purpose of this challenge was to build the back end for an e-commerce site u
     THEN I am able to successfully create, update, and delete data in my database   
 
 ## Application
-See the Demo folder and download for full video: 
+Full video:
+     https://github.com/Brookethorson/e-commerce/blob/main/Assets/Wk%2013%20part1.webm
+     https://github.com/Brookethorson/e-commerce/blob/main/Assets/wk13%20part2.webm
 
 
 
