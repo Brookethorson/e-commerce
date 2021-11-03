@@ -25,7 +25,7 @@ The purpose of this challenge was to build the back end for an e-commerce site u
     THEN I am able to successfully create, update, and delete data in my database   
 
 ## Application
-See the Demo folder and download for full video: https://github.com/Brookethorson/employee_tracker/tree/main/Demo
+See the Demo folder and download for full video: 
 
 
 
